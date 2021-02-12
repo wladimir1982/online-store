@@ -1,0 +1,10 @@
+export  const SET_PRODUCTS = 'SET_PRODUCTS'
+export  const SET_LOADED = 'SET_LOADED'
+
+export  const ADD_PRODUCT_CART = 'ADD_PRODUCT_CART'
+export  const CLEAR_CART = 'CLEAR_CART'
+export  const REMOVE_CART_ITEM = 'REMOVE_CART_ITEM'
+export  const PLUS_PRODUCT_CART = 'PLUS_PRODUCT_CART'
+export  const MINUS_PRODUCT_ITEM = 'MINUS_PRODUCT_ITEM'
+
+export  const SET_CATEGORY = 'SET_CATEGORY'
